@@ -1,0 +1,186 @@
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\SmartTicketing.exe
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\SmartTicketing.deps.json
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\SmartTicketing.runtimeconfig.json
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\QT2_1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfoInputs.cache
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfo.cs
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTic.2B193051.Up2Date
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\refint\SmartTicketing.dll
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\SmartTicketing.genruntimeconfig.cache
+C:\Users\quang\Downloads\QT2_1\prototype\obj\Debug\net8.0-windows\ref\SmartTicketing.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\SmartTicketing.exe
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\SmartTicketing.deps.json
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\SmartTicketing.runtimeconfig.json
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfoInputs.cache
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfo.cs
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTic.2B193051.Up2Date
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\refint\SmartTicketing.dll
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\SmartTicketing.genruntimeconfig.cache
+C:\Users\quang\Downloads\Quá Trình 2_Lần 1\prototype\obj\Debug\net8.0-windows\ref\SmartTicketing.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\SmartTicketing.deps.json
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\SmartTicketing.runtimeconfig.json
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfoInputs.cache
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.AssemblyInfo.cs
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTic.2B193051.Up2Date
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\refint\SmartTicketing.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.pdb
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\SmartTicketing.genruntimeconfig.cache
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\obj\Debug\net8.0-windows\ref\SmartTicketing.dll
+C:\Users\quang\Downloads\524H0205_524H0151_524H0146_524H0201_GroupAssginment1\prototype\bin\Debug\net8.0-windows\QRCoder.dll
